@@ -17,4 +17,4 @@ navbar:
       href: contact.html
 output:
   html_document:
-    theme: cerulean
+    theme: darkly
