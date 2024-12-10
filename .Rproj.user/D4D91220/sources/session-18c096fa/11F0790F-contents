@@ -1,0 +1,41 @@
+---
+title: Services
+output: html_document
+date: "2024-12-10"
+---
+This is where my bio will be.
+Check how to position PhD as relevant skill.
+Make connection to agile (if not separate page)
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Executive Negotiation Training:
+A detailed description of what this training entails, whether it’s a one-day workshop or a three-day intensive course. Highlight the outcomes participants can expect, such as improved negotiation skills, conflict management techniques, and strategic thinking.
+
+Conflict Resolution Workshops:
+Describe how these workshops can help teams resolve conflicts effectively and improve collaboration. Mention practical tools and strategies you cover.
+
+Agile Coaching & Change Management:
+Detail your experience with agile practices and how you can help organizations manage change effectively, using Kanban or other agile frameworks to optimize workflows and foster organizational growth.
+
+Custom Training:
+Offer a tailored training program option where you design workshops or courses based on the organization’s specific needs.
+
+Call to Action: Encourage visitors to reach out for a free consultation or more information.
+
+
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
