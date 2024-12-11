@@ -1,7 +1,7 @@
 name: "my-website"
 output_dir: "docs"
 navbar:
-  title:  <font size="6"> Dr. Tina Dudenhöffer </font> - <font size="4">Negotiation and Change Management Solutions in a Dynamic World </font>
+  title:  Dr. Tina Dudenhöffer <br> Negotiation and Change Management Solutions in a Dynamic World
   left:
     - text: "Home"
       href: index.html
@@ -10,7 +10,7 @@ navbar:
     - text: "Services"
       href: practice.html
     - text: "Case Studies"
-      href: casestudies.html
+      href: Casestudies.html
     - text: "Blog"
       href: blog.html
     - text: "Contact"
@@ -18,3 +18,4 @@ navbar:
 output:
   html_document:
     theme: darkly
+    
