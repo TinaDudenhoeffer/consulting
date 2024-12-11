@@ -2,7 +2,9 @@
 title: Homepage
 ---
 
-![This is me](/images/IMG_0148.jpg)
+![This is me](~/images/IMG_0148.jpg)
+
+
 
 Hero Section:
 A clear, impactful headline that summarizes your value proposition.
