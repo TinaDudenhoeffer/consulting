@@ -1,5 +1,5 @@
 ---
-title: Homepage and first commmit
+title: Homepage
 ---
 
 Hero Section:

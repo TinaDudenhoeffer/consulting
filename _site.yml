@@ -10,7 +10,7 @@ navbar:
     - text: "Services"
       href: practice.html
     - text: "Case Studies"
-      href: casestudies.html
+      href: Casestudies.html
     - text: "Blog"
       href: blog.html
     - text: "Contact"
