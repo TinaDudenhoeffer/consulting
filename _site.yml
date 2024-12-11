@@ -1,7 +1,7 @@
 name: "my-website"
 output_dir: "docs"
 navbar:
-  title:  Dr. Tina Dudenhöffer <br> Negotiation and Change Management Solutions in a Dynamic World
+  title:  Dr. Tina Dudenhöffer - Negotiation and Change Management Solutions in a Dynamic World
   left:
     - text: "Home"
       href: index.html
