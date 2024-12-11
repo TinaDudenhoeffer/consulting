@@ -2,6 +2,8 @@
 title: Homepage
 ---
 
+![This is me](Users/tinadudenhoeffer/Dropbox/Private/Website/images/IMG_0148)
+
 Hero Section:
 A clear, impactful headline that summarizes your value proposition.
 Example: "Expert Negotiation & Conflict Resolution Training for Leaders and Teams"
